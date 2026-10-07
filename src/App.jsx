@@ -4,12 +4,13 @@
 // import viteLogo from './assets/vite.svg'
 // import './App.css'
 // import Greeting from "./Greeting"
-import Exercise1 from "./components/Exercise1";
+// import Exercise1 from "./components/Exercise1";
+import Exercise2 from "./components/exercise2";
 // import Registration from "./Registration";
 
 function App() {
   return (
-    <Exercise1 />
+    <Exercise2 />
   );
 }
 
